@@ -1,4 +1,5 @@
-# 🌿 Glow Reveal UI
+# 🌿 Glow Reveal UI 
+  [LIVE](https://glow-reveal.vercel.app/)
 
 A fully responsive skincare landing page built with **React**, **Tailwind CSS**, and **GSAP**.  
 This project replicates a luxury Figma design with smooth animations and clean UI components.  
