@@ -21,6 +21,7 @@ This project replicates a luxury Figma design with smooth animations and clean U
 
 ## 📂 Project Structure
 
+```
 glow-reveal-ui/
 ├── public/
 │ └── favicon.ico
@@ -31,6 +32,7 @@ glow-reveal-ui/
 │ ├── App.jsx
 │ └── main.jsx
 └── index.html
+```
 
 ## 🛠️ Getting Started
 
